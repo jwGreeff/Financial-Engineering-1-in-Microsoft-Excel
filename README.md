@@ -15,6 +15,6 @@ The subject matter of the course is divided into the following sections:<br>
 &emsp; &emsp; - Rational Expectation theory [Efficient Markets Hypothesis]. <br>
 &emsp; &emsp; - Behavioural Economics. <br>
 <b>3 . Measures of investment risk.</b> <br>
-<b>4 . Stochastic interest rate models.</b> <br><br>
+<b>4 . Stochastic interest rate models.</b> <br>
 
 All the computational work are merged into a single .xlsx workbook for convenience.
