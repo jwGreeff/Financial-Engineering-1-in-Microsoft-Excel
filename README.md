@@ -1,4 +1,4 @@
-### Third Year Financial Engineering 1 in Microsoft Excel,
+### Financial Engineering 1 in Microsoft Excel
 
 The following textbooks are followed: <a href='https://www.amazon.com/Investment-Science-David-G-Luenberger/dp/0199740089'>Luenberger, D.G,  Investment Science, Second Edition, Oxford University Press, 2013</a> and 
 <a href='https://www.amazon.com/Principles-Finance-Excel-Simon-Benninga/dp/0190296380?ref_=ast_author_dp'>Beninga, S, Principles of Finance with Excel, Third Edition, Oxford University Press, 2005</a>. <br><br>
